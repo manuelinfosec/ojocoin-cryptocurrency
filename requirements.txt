@@ -1,0 +1,8 @@
+hashlib
+flask
+pycryptodome
+requests
+uuid
+textwrap
+urllib
+jsonpickle
