@@ -1,7 +1,7 @@
 
 # ojocoin-cryptocurrency
 
-A blockchain-backed cryptocurrency implementation in Python; powered by Flask.
+A blockchain-backed cryptocurrency implementation in Python; powered by Flask. 
 
 
 ## Installation
